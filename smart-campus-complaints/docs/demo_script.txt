@@ -1,0 +1,25 @@
+Demo Script (approx 3 minutes)
+
+Intro (20s)
+- "Hello, I'm <Your Name>. Today I'll demo the Smart Campus Complaint & Maintenance System — a full-stack app to submit and track campus issues."
+
+Demo Step 1: Student submits (40s)
+- Show the student form.
+- Fill in Title: 'Projector not working, Room B12' and a short description.
+- Submit the form and mention the complaint is saved to MongoDB via the API.
+
+Demo Step 2: Admin handles it (50s)
+- Log in to the admin dashboard using the admin account.
+- Show the new complaint appearing at the top of the list.
+- Click 'In Progress', add admin notes if you like, then set to 'Resolved'.
+
+Demo Step 3: Notifications & analytics (30s)
+- Show the email notification received by the student.
+- Open the analytics panel and point out counts by status and top categories.
+
+Wrap-up (20s)
+- Summarize tech: React, Node/Express, MongoDB, Nodemailer.
+- Mention next steps (image upload, SMS alerts, mobile app).
+- Invite questions.
+
+Notes: Practice showing screenshots if the live server isn't running. Time each step during rehearsal.
